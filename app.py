@@ -5,13 +5,13 @@ from streamlit_timeline import timeline
 
 
 # use full page width
-st.set_page_config(page_title="BirthDay Wishes", layout="wide")
+st.set_page_config(page_title="Naithik BirthDay Wishes", layout="wide")
 
 # Test/Title
 #st.image('https://github.com/SurendraRedd/NaithikBirthday/blob/main/IMG-20210111-WA0003.jpg?raw=true',width=250)
-st.markdown('# 🎂🎂 Happy 7th Birthday Naithik 🎂🎂🎂')
+st.markdown('# 🎂🎂 Happy 8th Birthday Naithik 🎂🎂🎂')
 
-col1, col2, col3, col4, col5, col6, col7 = st.columns(7)
+col1, col2, col3, col4, col5, col6, col7,col8 = st.columns(8)
 
 col1.header('1')
 col1.image('https://github.com/SurendraRedd/NaithikBirthday/blob/main/FB_IMG_1476548602809.jpg?raw=true',width=150)
@@ -27,6 +27,8 @@ col6.header('6')
 col6.image('https://github.com/SurendraRedd/NaithikBirthday/blob/main/IMG20210830144700.jpg?raw=true',width=150)
 col7.header('7')
 col7.image('https://github.com/SurendraRedd/NaithikBirthday/blob/main/IMG-20210111-WA0003.jpg?raw=true',width=200)
+col8.header('8')
+col8.image('https://github.com/SurendraRedd/NaithikBirthday/blob/main/IMG-20210111-WA0003.jpg?raw=true',width=200)
 
 
 
