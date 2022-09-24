@@ -28,7 +28,7 @@ col6.image('https://github.com/SurendraRedd/NaithikBirthday/blob/main/IMG2021083
 col7.header('7')
 col7.image('https://github.com/SurendraRedd/NaithikBirthday/blob/main/IMG-20210111-WA0003.jpg?raw=true',width=200)
 col8.header('8')
-col8.image('https://github.com/SurendraRedd/NaithikBirthday/blob/main/IMG-20210111-WA0003.jpg?raw=true',width=200)
+col8.image('https://github.com/SurendraRedd/NaithikBirthday/blob/main/IMG20220813124814.jpg?raw=true',width=200)
 
 
 
