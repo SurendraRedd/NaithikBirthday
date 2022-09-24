@@ -120,6 +120,21 @@
           "headline": "7th Birthday.",
           "text": "<p>Turn to seven years! </p>"
         }
+      },
+      {
+        "media": {
+          "url": "https://vimeo.com/753382278",
+          "caption": "Eighth Birthday (<a target=\"_blank\" href='https://vimeo.com/753382278'>credits</a>)"
+        },
+        "start_date": {
+          "year": "2022",
+          "month":"9",
+          "day":"25"
+        },
+        "text": {
+          "headline": "8th Birthday.",
+          "text": "<p>Turn to eight years! </p>"
+        }
       }
 
     ]
